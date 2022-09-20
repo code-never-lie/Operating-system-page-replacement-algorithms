@@ -1,0 +1,33 @@
+hi dear !
+
+ i hope you are fine !
+After day night work we complete your Project you can see as per your requrment if you get your expected result from us then you need to complte project by marked as complete  so we also need your good word review with 5/5 rating because we work hard for our client not client actully you are my bro ! Grate Person kindly
+
+1 )
+
+first of all i want to tell you in this assignment we need to impelement 4 page replacement algorithms of Operating System 
+
+see  assignment and code here implement of all algorithum 
+
+2 ) 
+
+after then we need to  Compare the performance of all page replacement algorithms  by given fixed numbers of frames i.e fixed size 10 . as said in assignment.
+
+see assignment requrment 
+
+3 ) 
+Also we need to  Generate five sets of reference strings by setting the parameters P, m, e and t to the following five combinations 
+
+as said in assignment  Scenario Table 
+
+4)
+
+ let see demo .
+
+ for example we just want to see 1000 random value in demo so i input 1000 you can choice any value in between range 
+
+5)All the screenshoot are also availbe. all the code are comented you can see
+
+
+6) Also avaiable single report.pdf containing the tables showing the number of page faults for different algorithms under different scenarios.
+
